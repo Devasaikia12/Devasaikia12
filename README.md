@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Devabrat Here!</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker]**
 
