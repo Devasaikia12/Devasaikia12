@@ -1,10 +1,8 @@
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Devabrat Here!</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+## Hi, I am Devabrat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
----
+My name is Devabrat Saikia and I'm a software developer. I'm from India.
+
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Covid-19 Tracker]**
 
 - 🌱 I’m currently learning **GrapQL.**
 
@@ -12,16 +10,12 @@
 
 - 📫 How to reach me **devasaikia2009@@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- ⚡ Fun fact **I love football**
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Devasaikia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Devasaikia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
