@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Devabrat Here!</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
+---
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker]**
@@ -23,7 +25,8 @@
 
 <br />
 
-### Languages and Tools:
+---
+## 🚀 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,11 +43,14 @@
 <br/>
 
 ---
+## 📊 My Github Stats
 
-[![Devabrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devasaikia12)](https://github.com/Devasaikia12/github-readme-stats&count_private=true
-)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devasaikia12)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Devasaikia12/Devasaikia12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasaikia12&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/Devasaikia12/Devasaikia12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devasaikia12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devasaikia12's GitHub Stats" />
+</a>
 
 
 <br />
