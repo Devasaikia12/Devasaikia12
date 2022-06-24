@@ -4,7 +4,7 @@ My name is Devabrat Saikia and I'm a software developer. I'm from India.
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **GrapQL.**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
